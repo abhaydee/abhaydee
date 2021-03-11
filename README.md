@@ -13,7 +13,7 @@
 ## Things that I’m working currently …. 
 
   * 🔭 I’m currently working on E-commerce Product at Accenture.
-  * 🌱 I’m currently learning TypeScript ,NODEJS,
+  * 🌱 I’m currently learning TypeScript ,NODEJS,Graphql
   * 💻 My recent projects: Rest Countries, TodoList, Netflix Clone
   * Ways to reach me :-  Twitter, Instagram, LinkedIn 
 
