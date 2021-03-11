@@ -1,13 +1,10 @@
 ## Hi there 👋
 
-<!--
-**abhaydee/abhaydee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-I’m Abhay Deshpande, A Full Stack Developer based out of Bangalore India. I am Front End Developer Nanodegree Graduate From Udacity (Co-created By Google)
+  I’m Abhay Deshpande, A Full Stack Developer based out of Bangalore India. Front End Developer Nanodegree Graduate From Udacity (Co-created By Google)
 
 ## WORK 
 
-  I  work at Accenture as a Front End Engineer. I am currently working on from scratch E-commerce React Product at Accenture.  I’m involved in the development of     the product using NEXTJS, React, Redux, NODEJS, GraphQL.
+ *  I  work at Accenture as a Front End Engineer. I am currently working on from scratch E-commerce React Product at Accenture.  I’m involved in the development of     the product using NEXTJS, React, Redux, NODEJS, GraphQL.
 
 ## SKILLS:-
 
