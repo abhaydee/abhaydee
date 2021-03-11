@@ -26,8 +26,8 @@
   
 ## Connect 
 
-<a href="https://twitter.com/Abhs567"><img align="left" width=20px src="https://simpleicons.org/icons/twitter.svg"></a>
-<a href="https://in.linkedin.com/in/abhaydee"><img align="left" width=20px src="https://simpleicons.org/icons/linkedin.svg"></a>
+  <a href="https://twitter.com/Abhs567"><img align="left" width=20px src="https://simpleicons.org/icons/twitter.svg"></a>
+  <a href="https://in.linkedin.com/in/abhaydee"><img align="left" width=20px src="https://simpleicons.org/icons/linkedin.svg"></a>
 
 
 
