@@ -10,7 +10,7 @@
 
 	Javascript, React, Redux, NEXTJS, TypeScript, NodeJS, Express, GraphQL, Firebase
 
-## Things that I’m working currently …. 
+## Things that I’m currently working on …. 
 
   * 🔭 I’m currently working on E-commerce Product at Accenture.
   * 🌱 I’m currently learning TypeScript ,NODEJS,Graphql
