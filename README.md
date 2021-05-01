@@ -8,7 +8,7 @@
 
 ## SKILLS:-
 
-	Javascript, React, Redux, NEXTJS, TypeScript, NodeJS, Express, GraphQL, Firebase
+	Javascript, React, React-Native, Redux, NEXTJS, TypeScript, NodeJS, Express, GraphQL, Firebase
 
 ## Things that I’m currently working on …. 
 
