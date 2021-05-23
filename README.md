@@ -4,17 +4,19 @@
 
 ## WORK 
 
- *  I  work at Accenture as a Front End Engineer. I am currently working on from scratch E-commerce React Product at Accenture.  I’m involved in the development of     the product using NEXTJS, React, Redux, NODEJS, GraphQL.
+ *  I  work at Softway as a Full Stack Engineer. I'm currently working on a from scratch React-Native Product at Softway.  I’m involved in the development of     the product using React-Native, Redux, NODEJS, GraphQL. MongoDB , AWS-AppSYNC, Docker
 
 ## SKILLS:-
 
-	Javascript, React, React-Native, Redux, NEXTJS, TypeScript, NodeJS, Express, GraphQL, Firebase
+	Javascript, React, React-Native, Redux, NEXTJS, TypeScript, NodeJS, Express, GraphQL, Firebase,
 
 ## Things that I’m currently working on …. 
 
-  * 🔭 I’m currently working on E-commerce Product at Accenture.
+	
+  * 🔭 Currently working on a  React-Native product at Softway.
+  * 🔭 Recently worked on  E-commerce Product at Accenture.
   * 🌱 I’m currently learning TypeScript ,NODEJS,Graphql
-  * 💻 My recent projects: Rest Countries, TodoList, Netflix Clone
+  * 💻 My recent projects: Social-Media-Web, Rest Countries, TodoList, Netflix Clone
   * Ways to reach me :-  Twitter, Instagram, LinkedIn 
 
 ## Github Stats
