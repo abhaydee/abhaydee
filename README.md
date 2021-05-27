@@ -15,7 +15,7 @@
 	
   * 🔭 Currently working on a  React-Native product at Softway.
   * 🔭 Recently worked on  E-commerce Product at Accenture.
-  * 🌱 I’m currently learning TypeScript ,NODEJS,Graphql
+  * 🌱 I’m currently learning TypeScript ,NODEJS,Graphql,Docker
   * 💻 My recent projects: Social-Media-Web, Rest Countries, TodoList, Netflix Clone
   * Ways to reach me :-  Twitter, Instagram, LinkedIn 
 
