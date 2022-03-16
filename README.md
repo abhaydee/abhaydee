@@ -15,7 +15,7 @@
 	
   * 🔭 Currently working on a Full Stack React-Native product at Softway.
   * 🔭 Recently worked on  E-commerce Product at Accenture.
-  * 🌱 I’m currently learning Web3 , BlockChain and AWS Services.
+  * 🌱 I’m currently learning Web3, BlockChain and AWS Services.
   * 💻 My recent projects: Coinbase-Clone, Portfolio-v2.
   * Ways to reach me :-  Twitter, Instagram, LinkedIn 
 
@@ -25,7 +25,7 @@
    
 ## Connect 
 
-  <a href="https://twitter.com/Abhs567"><img align="left" width=20px src="https://simpleicons.org/icons/twitter.svg"></a>
+  <a href="https://twitter.com/abhaycodes"><img align="left" width=20px src="https://simpleicons.org/icons/twitter.svg"></a>
   <a href="https://in.linkedin.com/in/abhaydee"><img align="left" width=20px src="https://simpleicons.org/icons/linkedin.svg"></a>
 
 
