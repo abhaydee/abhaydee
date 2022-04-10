@@ -4,7 +4,7 @@
 
 ## WORK 
 
- *  I  work at Softway as a Full Stack Engineer. I'm currently working on a from scratch React-Native Full Stack Product at Softway.  I’m involved in the development of the product using React-Native, Redux, Strapi CMS, Amazon APPSYNC, Amazon Cognito , Amazon S3, Amazon Dynamo DB, AWS Lambda. 
+ *  I  work at Softway as a Senior Full Stack Engineer. I'm currently working on a from scratch React-Native Full Stack Product at Softway.  I’m involved in the development of the product using React-Native, Redux, Strapi CMS, Amazon APPSYNC, Amazon Cognito , Amazon S3, Amazon Dynamo DB, AWS Lambda. 
 
 ## SKILLS:-
 
