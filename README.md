@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-  I’m Abhay Deshpande, A Full Stack Developer based out of Bangalore India. Front End Developer Nanodegree Graduate From Udacity (Co-created By Google)
+  I’m Abhay Deshpande, A Full Stack Developer based out of Boston, USA. Front End Developer Nanodegree Graduate From Udacity (Co-created By Google)
 
 ## WORK 
 
