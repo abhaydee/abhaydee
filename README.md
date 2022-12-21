@@ -4,16 +4,16 @@
 
 ## WORK 
 
- *  I  work at Softway as a Senior Full Stack Engineer. I'm currently working on a from scratch React-Native Full Stack Product at Softway.  I’m involved in the development of the product using React-Native, Redux, Strapi CMS, Amazon APPSYNC, Amazon Cognito , Amazon S3, Amazon Dynamo DB, AWS Lambda. 
+ *  I'm currently pursuing my graduate studies at NorthEastern University. Along with my studies, I'm diving into the ecosystem of blockchain and its terminologies. 
 
 ## SKILLS:-
 
-	Javascript, React, React-Native, Redux, NEXTJS, TypeScript, NodeJS, Express, GraphQL, Firebase, AWS Services.
+	Javascript, React, React-Native, Ethers, Web3.JS, Redux, NEXTJS, TypeScript, NodeJS, Express, GraphQL, Firebase, AWS Services.
 
 ## Things that I’m currently working on …. 
 
 	
-  * 🔭 Currently working on a Full Stack React-Native product at Softway.
+  * 🔭 Contributed towards a Full Stack React-Native product at Softway.
   * 🔭 Recently worked on  E-commerce Product at Accenture.
   * 🌱 I’m currently learning Web3, BlockChain and AWS Services.
   * 💻 My recent projects: Coinbase-Clone, Portfolio-v2.
