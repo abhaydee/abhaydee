@@ -7,7 +7,7 @@
  *  I'm currently pursuing my graduate studies at NorthEastern University. Along with my studies, I'm diving into the ecosystem of blockchain and its terminologies. 
 
 ## SKILLS:-
-	<h2> 🚀 &nbsp; Javascript, React, React-Native, Ethers, Web3.JS, Redux, NEXTJS, TypeScript, NodeJS, Express, GraphQL, Firebase, AWS Services.</h2>
+	<h2> 🚀  Javascript, React, React-Native, Ethers, Web3.JS, Redux, NEXTJS, TypeScript, NodeJS, Express, GraphQL, Firebase, AWS Services.</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="50" height="50"/>        
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  alt="bash" width="50" height="50"/>
